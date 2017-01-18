@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="abc_background_cache_hint_selector_material_light">#000000</color>
+    <color name="secondary_text_material_light">#8affffff</color>
+    <color name="abc_btn_colored_borderless_text_material">#004d46</color>
+    <color name="statusDark">#fe004d46</color>
+</resources>
