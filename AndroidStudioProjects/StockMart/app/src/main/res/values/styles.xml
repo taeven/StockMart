@@ -22,4 +22,8 @@
 
     <style name="noActionBar" parent="Theme.AppCompat.Light.NoActionBar" />
 
+    <style name="forActionBar" parent="mainTheme" >
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
 </resources>

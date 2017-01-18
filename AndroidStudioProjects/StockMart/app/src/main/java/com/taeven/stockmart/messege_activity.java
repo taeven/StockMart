@@ -10,5 +10,6 @@ public class messege_activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_messege_activity);
         setTitle("Message");
+
     }
 }
